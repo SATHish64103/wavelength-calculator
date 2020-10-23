@@ -5,4 +5,4 @@ The user can able edit the velocity of sound value depend on their need.
 
 The application created using app designer in MATLAB r2018b. Please check requirements on MATLAB website before installing the app.
 
-For further quires contact sathish.sreeni58@gmail.com
+For further queries contact sathish.sreeni58@gmail.com
