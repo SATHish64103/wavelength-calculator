@@ -1,8 +1,7 @@
 
-This is a MATLAB application which calculates wavelength of sound for given frequency(Hz).
-The velocity of the sound depends on the medium it travels. By default the value set at 343 meters/sec (velocity of sound in air, 20°C).
-The user can able edit the velocity of sound value depend on their need.
+This MATLAB application calculates the wavelength of sound for a given frequency(Hz).
+The velocity of sound depends on the medium through which it travels. By default, the value is set at 343 meters/sec, representing the velocity of sound in air, 20°C). However, users can edit this value according to their specific requirements.
 
-The application created using app designer in MATLAB r2018b. Please check requirements on MATLAB website before installing the app.
+The application was created using an app designer in MATLAB r2018b. Please check the requirements on the MATLAB website before running the code.
 
-For further queries contact sathish.sreeni58@gmail.com
+For further queries, contact sathish.sreeni58@gmail.com
